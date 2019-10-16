@@ -1,0 +1,85 @@
+    #num button {
+        width: 50px;
+        height: 50px;
+        font-family: Arial;
+        background-color: rgb(68, 68, 68);
+        border-color: rgba(68, 68, 68, 0);
+        text-align: center;
+        border-radius: 50px;
+        color: #ffffff;
+        font-weight: bolder;
+        font-size: 18pt;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 3px;        
+        margin-bottom: 3px;
+
+    }
+    
+    #z button {
+        width: 106px;
+        height: 50px;
+        font-family: Arial;
+        background-color: rgb(68, 68, 68);
+        border-color: rgba(68, 68, 68, 0);
+        text-align: left;
+        border-radius: 50px;
+        color: #ffffff;
+        font-weight: bolder;
+        font-size: 18pt;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 3px;        
+        margin-bottom: 3px;
+    }
+    
+    #topo button {
+        width: 50px;
+        height: 50px;
+        font-family: Arial;
+        background-color: lightgray;
+        border-color: rgba(211, 211, 211, 0);
+        text-align: center;
+        border-radius: 50px;
+        font-weight: bolder;
+        font-size: 18pt;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 3px;        
+        margin-bottom: 3px;
+    }
+    
+    #oper button {
+        width: 50px;
+        height: 50px;
+        font-family: Arial;
+        background-color: orange;
+        border-color: rgba(255, 166, 0, 0);
+        text-align: center;
+        border-radius: 50px;
+        color: #ffffff;
+        font-size: 18pt;
+        margin-left: 3px;
+        margin-right: 3px;
+        margin-top: 3px;        
+        margin-bottom: 3px; 
+    }
+    
+    #texto {
+        width: 220px;
+        height: 80px;
+        font-family: Arial;
+        background-color: #000000;
+        text-align: right;
+        font-size: 58pt;
+        color: #ffffff;
+        border-top-color: #000000;
+        border-left-color: #000000;
+        border-right-color: #000000;
+        border-bottom-color: #000000;
+        align: center;
+    }
+
+    #tabela td {
+        background-color: #000000;
+    }

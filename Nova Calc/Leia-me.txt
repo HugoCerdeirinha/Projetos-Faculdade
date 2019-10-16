@@ -1,0 +1,16 @@
+Para abrir a calculadora
+	1 - Instale o Visual Code
+	2 - Instale o Node JS
+	3 - Extraia a pasta "nova calc" para área de trabalho
+	4 - Dentro do Visual Code aperte (CTRL + SHIFT + ")
+	5 - No terminal que acabou de abrir no code digite "cd calculadora"
+	6 - Em seguida digite "npm start"
+	7 - Aguarde a pagina web carregar para usar a calculadora
+Para Usar a calculadora
+	1 - Informe o primeiro valor
+	2 - Informe o segundo valor
+	3 - Informe a operação desejada
+	4 - resultado sera exibido no display
+
+Obs: o arquivo html é uma calculadora usando JS de forma alternativa, basta clicar no arquivo que
+o nevegador vai executar o site html.
